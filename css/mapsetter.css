@@ -99,10 +99,6 @@ a {
   background-color: #bc2f40 !important;
 }
 
-.panel.panel-default {
-  box-shadow: 5px 0px 40px rgba(0,0,0, .5);
-}
-
 /*--------------------------------------Home Page----------------------------------------*/
 body#home-page {
   background-color: #3b4d65 !important;
